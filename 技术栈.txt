@@ -1,0 +1,21 @@
+开发语言： JAVA 
+开发环境:  JDK1.8  
+           nodejs v16+
+		   yarn v1.22.19
+
+前端框架：VUE
+
+后端框架： SprintBoot
+
+数据库：mysql5.7     
+
+PC端：后台PC端	
+
+H5端：不支持
+
+小程序：不支持
+
+管理后台登录地址： http://域名/
+
+默认登录账号： admin     密码：admin
+
